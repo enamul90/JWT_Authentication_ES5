@@ -1,6 +1,6 @@
 # JWT_Authentication
 
-This is Express project this project developed by ES5 model.
+This is Express.js project this project developed by ES5 model.
 
 
 
