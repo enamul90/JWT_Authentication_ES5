@@ -11,7 +11,7 @@ All API
 02 login
 03 profile_read
 04 Send_mail
-04 logout
+05 logout
 
 ```
 
